@@ -1,0 +1,44 @@
+body{
+    background-color:pink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:16px;
+}
+h1{
+color:red;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size:32px;
+}
+h2{
+    color: rgb(223, 90, 13);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:32px;
+        
+}
+h3{
+color: rgb(223, 90, 13);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size:24px;
+}
+  h4{
+    color: rgb(223, 90, 13);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:24px;
+    }   
+    ul,p{
+        color: blue;
+    }
+    .negro{
+        color: green;
+    }
+    .resaltado{
+        font-style: italic;
+        background-color: black;
+        color: white;
+    }
+    .strong {
+        font-size:50px;  
+        font-weight:bold;
+}
+
+
+
